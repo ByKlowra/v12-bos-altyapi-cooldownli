@@ -1,1 +1,1 @@
-# v12-bo-altyap-cooldownl-
+# v12-bo-altyap-cooldownli-
