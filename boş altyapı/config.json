@@ -1,0 +1,8 @@
+{
+  "TOKEN" : "BOT TOKENİ BURAYA", 
+  "PREFIX" : "BOT PREFIX BURAYA",
+  "owner" : "OWNER ID BURAYA",
+  "durm" : "idle/online/dnd/invisible istediğini seç buraya yaz",
+  "status" : "buraya botun durumunda ne gözükücek onu yaz",
+  "typeR" : "buraya PLAYING/COMPENTING/WATCHING vesaire istediğini yaz"
+}  
