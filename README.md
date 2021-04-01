@@ -5,3 +5,5 @@ Taslağı öğretici bir şekilde yapmanız gerekenleri yazıp hali hazırda rah
 Umarım işinize yarar bir altyapı olur.
 Bi hata ile karşılaşırsanız Klowra#1703 yazabilirsiniz.
 İyi günler, iyi kodlamalar dilerim.
+
+discord.gg/win
