@@ -5,7 +5,14 @@ const moment = require("moment");
 const request = require("request");
 const mongoose = require("mongoose");
 const { TOKEN, PREFIX, durm, status, typeR } = require("./config.json");
+const express = require("express")
+const app2 = express()
 
+app2.get('/', (req, res) => {
+    res.status(404).send('Merhaba!');
+});
+
+app2.listen(4200)
 const app = new Client();
 
 app.commands = new Collection();
