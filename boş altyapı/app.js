@@ -3,7 +3,6 @@ const { readdirSync } = require("fs");
 const { join } = require("path");
 const moment = require("moment");
 const request = require("request");
-const mongoose = require("mongoose");
 const { TOKEN, PREFIX, durm, status, typeR } = require("./config.json");
 const express = require("express")
 const app2 = express()
